@@ -1,4 +1,3 @@
-```javascript
 // Tahun otomatis pada footer
 
 const year = document.getElementById("year");
@@ -25,4 +24,8 @@ cards.forEach((card, index) => {
     }, 300 + (index * 150));
 
 });
-```
+
+
+
+
+
